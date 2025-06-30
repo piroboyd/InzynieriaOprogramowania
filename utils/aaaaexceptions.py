@@ -1,0 +1,2 @@
+class ReservationException(Exception):
+    pass
